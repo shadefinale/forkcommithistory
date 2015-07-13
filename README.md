@@ -1,3 +1,1 @@
-# forkcommithistory
-Mirror commits to forks
-/
+Olga & Donald assignment
